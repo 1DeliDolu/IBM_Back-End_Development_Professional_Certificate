@@ -17,9 +17,6 @@
 git add sample.md
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -34,9 +31,6 @@ git add sample.md
 git add .
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -51,9 +45,6 @@ git add .
 git am < patchfile.patch
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -68,9 +59,6 @@ git am < patchfile.patch
 git branch <new-branch>
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -85,9 +73,6 @@ git branch <new-branch>
 git checkout <existing-branch>
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -102,9 +87,6 @@ git checkout <existing-branch>
 git checkout main
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -119,9 +101,6 @@ git checkout main
 git clone <repository-url>
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -136,9 +115,6 @@ git clone <repository-url>
 git commit -m "Your commit message here"
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -157,9 +133,6 @@ git commit -m "Your commit message here"
 git config --global user.email "your.email@example.com"
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 **Örnek 2 – Kod örneği:**
 
@@ -168,9 +141,6 @@ git config --global user.email "your.email@example.com"
 git config --global user.name "Your Name"
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -185,9 +155,6 @@ git config --global user.name "Your Name"
 git daemon --reuseaddr --verbose
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -202,9 +169,6 @@ git daemon --reuseaddr --verbose
 git diff example.txt
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -219,9 +183,6 @@ git diff example.txt
 git fetch <options> <remote name> <branch name>
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -236,9 +197,6 @@ git fetch <options> <remote name> <branch name>
 git fetch upstream main:upstream-main
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -253,9 +211,6 @@ git fetch upstream main:upstream-main
 git format-patch -n <number_of_commits>
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -274,9 +229,6 @@ cd myrepo.git
 git update-server-info
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -291,9 +243,6 @@ git update-server-info
 git init <directory>
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -308,9 +257,6 @@ git init <directory>
 git instaweb -p 8080
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -325,9 +271,6 @@ git instaweb -p 8080
 git log -p filename
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -342,9 +285,6 @@ git log -p filename
 git merge feature_branch
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -359,9 +299,6 @@ git merge feature_branch
 git merge upstream/main
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -376,9 +313,6 @@ git merge upstream/main
 git pull origin main
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -393,9 +327,6 @@ git pull origin main
 git pull downstream main
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -410,9 +341,6 @@ git pull downstream main
 git pull upstream main
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -427,9 +355,6 @@ git pull upstream main
 git push origin your_branch_name
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -444,9 +369,6 @@ git push origin your_branch_name
 git remote add upstream https://github.com/original/repo.git
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -461,9 +383,6 @@ git remote add upstream https://github.com/original/repo.git
 git remote add origin https://github.com/yourusername/your-repo.git
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -478,9 +397,6 @@ git remote add origin https://github.com/yourusername/your-repo.git
 git remote add upstream https://github.com/original/repo.git
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -495,9 +411,6 @@ git remote add upstream https://github.com/original/repo.git
 git remote rename origin new-origin
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -512,9 +425,6 @@ git remote rename origin new-origin
 git remote -v
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -533,9 +443,6 @@ git remote -v
 git request-pull origin/main your-branch
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 **Örnek 2 – Kod örneği:**
 
@@ -544,9 +451,6 @@ git request-pull origin/main your-branch
 git request-pull <base> <head> <repository>
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -563,9 +467,6 @@ git rerere
 git rerere diff
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -580,9 +481,6 @@ git rerere diff
 git reset HEAD~1
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -597,9 +495,6 @@ git reset HEAD~1
 git revert HEAD
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -620,10 +515,6 @@ git send-email --to=recipient@example.com
 path/to/patchfile.patch
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
-
 **Örnek 2 – Kod örneği:**
 
 ```bash
@@ -633,9 +524,6 @@ git send-email --to recipient@example.com
 patches/*.patch
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -650,9 +538,6 @@ patches/*.patch
 sudo usermod -s /usr/bin/git-shell gituser
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
@@ -667,9 +552,6 @@ sudo usermod -s /usr/bin/git-shell gituser
 git status
 ```
 
-**Kopyalandı!**
-
-**Satır kaydırma aç/kapa!**
 
 ---
 
